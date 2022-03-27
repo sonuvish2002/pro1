@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/sonuvish2002/pro1/issues"
   },
-  "homepage": "https://github.com/sonuvish2002/pro1#readme"
+  "homepage": "https://github.com/sonuvish2002/pro1#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "random": "^3.0.6",
+    "sha1": "^1.1.1"
+  }
 }
